@@ -1,0 +1,1136 @@
+{
+    "4000": {
+        "Master Code": 4000,
+        "Input Codes": [
+            "4010-0000",
+            null,
+            null
+        ],
+        "PtD Total": 166802
+    },
+    "4010": {
+        "Master Code": 4010,
+        "Input Codes": [
+            "4020-0000",
+            null,
+            null
+        ],
+        "PtD Total": -11147
+    },
+    "4020": {
+        "Master Code": 4020,
+        "Input Codes": [
+            "4025-0000",
+            null,
+            null
+        ],
+        "PtD Total": -6084.57
+    },
+    "4030": {
+        "Master Code": 4030,
+        "Input Codes": [
+            "4040-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "4040": {
+        "Master Code": 4040,
+        "Input Codes": [
+            "4045-0000",
+            null,
+            null
+        ],
+        "PtD Total": -1269
+    },
+    "4050": {
+        "Master Code": 4050,
+        "Input Codes": [
+            "4071-0000",
+            null,
+            null
+        ],
+        "PtD Total": -9224.22
+    },
+    "4060": {
+        "Master Code": 4060,
+        "Input Codes": [
+            "4073-5100",
+            null,
+            null
+        ],
+        "PtD Total": -1348.21
+    },
+    "4065": {
+        "Master Code": 4065,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "4100": {
+        "Master Code": 4100,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "4110": {
+        "Master Code": 4110,
+        "Input Codes": [
+            "4283-0000",
+            null,
+            null
+        ],
+        "PtD Total": 1421.73
+    },
+    "4111": {
+        "Master Code": 4111,
+        "Input Codes": [
+            "4284-0000",
+            null,
+            null
+        ],
+        "PtD Total": 1165.65
+    },
+    "4112": {
+        "Master Code": 4112,
+        "Input Codes": [
+            "4285-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "4113": {
+        "Master Code": 4113,
+        "Input Codes": [
+            "4314-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "4114": {
+        "Master Code": 4114,
+        "Input Codes": [
+            "4286-0000",
+            "4287-0000",
+            null
+        ],
+        "PtD Total": 1255.05
+    },
+    "4200": {
+        "Master Code": 4200,
+        "Input Codes": [
+            "4312-0000",
+            null,
+            null
+        ],
+        "PtD Total": 1100
+    },
+    "4210": {
+        "Master Code": 4210,
+        "Input Codes": [
+            "4310-0000",
+            null,
+            null
+        ],
+        "PtD Total": 420
+    },
+    "4220": {
+        "Master Code": 4220,
+        "Input Codes": [
+            "4316-0000",
+            null,
+            null
+        ],
+        "PtD Total": 100
+    },
+    "4230": {
+        "Master Code": 4230,
+        "Input Codes": [
+            "4318-0000",
+            null,
+            null
+        ],
+        "PtD Total": 150
+    },
+    "4240": {
+        "Master Code": 4240,
+        "Input Codes": [
+            "4322-0000",
+            null,
+            null
+        ],
+        "PtD Total": 415
+    },
+    "4245": {
+        "Master Code": 4245,
+        "Input Codes": [
+            "7252-0000",
+            null,
+            null
+        ],
+        "PtD Total": -1000
+    },
+    "4250": {
+        "Master Code": 4250,
+        "Input Codes": [
+            "4328-0000",
+            null,
+            null
+        ],
+        "PtD Total": 1324.31
+    },
+    "4260": {
+        "Master Code": 4260,
+        "Input Codes": [
+            "4329-0000",
+            null,
+            null
+        ],
+        "PtD Total": 250
+    },
+    "4270": {
+        "Master Code": 4270,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "4280": {
+        "Master Code": 4280,
+        "Input Codes": [
+            "4332-0000",
+            "4335-0000",
+            "4343-0000"
+        ],
+        "PtD Total": 0
+    },
+    "4290": {
+        "Master Code": 4290,
+        "Input Codes": [
+            "4333-0000",
+            null,
+            null
+        ],
+        "PtD Total": 1229.84
+    },
+    "4300": {
+        "Master Code": 4300,
+        "Input Codes": [
+            "4338-0000",
+            "4339-0000",
+            null
+        ],
+        "PtD Total": 1249.03
+    },
+    "4310": {
+        "Master Code": 4310,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "4320": {
+        "Master Code": 4320,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "4330": {
+        "Master Code": 4330,
+        "Input Codes": [
+            "4348-0000",
+            null,
+            null
+        ],
+        "PtD Total": 3556
+    },
+    "4340": {
+        "Master Code": 4340,
+        "Input Codes": [
+            "4346-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "4350": {
+        "Master Code": 4350,
+        "Input Codes": [
+            "4073-5200",
+            "4073-5410",
+            null
+        ],
+        "PtD Total": 143.9
+    },
+    "4500": {
+        "Master Code": 4500,
+        "Input Codes": [
+            "4356-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5100": {
+        "Master Code": 5100,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5110": {
+        "Master Code": 5110,
+        "Input Codes": [
+            "5230-0000",
+            null,
+            null
+        ],
+        "PtD Total": 1430
+    },
+    "5120": {
+        "Master Code": 5120,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5130": {
+        "Master Code": 5130,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5140": {
+        "Master Code": 5140,
+        "Input Codes": [
+            "5325-0000",
+            null,
+            null
+        ],
+        "PtD Total": 1416.51
+    },
+    "5150": {
+        "Master Code": 5150,
+        "Input Codes": [
+            "5375-0000",
+            null,
+            null
+        ],
+        "PtD Total": 820
+    },
+    "5160": {
+        "Master Code": 5160,
+        "Input Codes": [
+            "5395-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5170": {
+        "Master Code": 5170,
+        "Input Codes": [
+            "5425-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5180": {
+        "Master Code": 5180,
+        "Input Codes": [
+            "5355-0000",
+            null,
+            null
+        ],
+        "PtD Total": 2650
+    },
+    "5200": {
+        "Master Code": 5200,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5210": {
+        "Master Code": 5210,
+        "Input Codes": [
+            "5710-0000",
+            "5748-0000",
+            null
+        ],
+        "PtD Total": 124.75
+    },
+    "5220": {
+        "Master Code": 5220,
+        "Input Codes": [
+            "5714-0000",
+            null,
+            null
+        ],
+        "PtD Total": 95
+    },
+    "5230": {
+        "Master Code": 5230,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5240": {
+        "Master Code": 5240,
+        "Input Codes": [
+            "5720-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5250": {
+        "Master Code": 5250,
+        "Input Codes": [
+            "5717-0000",
+            null,
+            null
+        ],
+        "PtD Total": 65
+    },
+    "5260": {
+        "Master Code": 5260,
+        "Input Codes": [
+            "5721-0000",
+            "5725-0000",
+            null
+        ],
+        "PtD Total": 175
+    },
+    "5270": {
+        "Master Code": 5270,
+        "Input Codes": [
+            "5726-0000",
+            null,
+            null
+        ],
+        "PtD Total": 45.21
+    },
+    "5280": {
+        "Master Code": 5280,
+        "Input Codes": [
+            "5730-0000",
+            null,
+            null
+        ],
+        "PtD Total": 159
+    },
+    "5290": {
+        "Master Code": 5290,
+        "Input Codes": [
+            "5734-0000",
+            null,
+            null
+        ],
+        "PtD Total": 406.67
+    },
+    "5300": {
+        "Master Code": 5300,
+        "Input Codes": [
+            "5740-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5310": {
+        "Master Code": 5310,
+        "Input Codes": [
+            "5742-0000",
+            null,
+            null
+        ],
+        "PtD Total": 7.6
+    },
+    "5320": {
+        "Master Code": 5320,
+        "Input Codes": [
+            "5750-0000",
+            null,
+            null
+        ],
+        "PtD Total": 266
+    },
+    "5330": {
+        "Master Code": 5330,
+        "Input Codes": [
+            "5754-0000",
+            null,
+            null
+        ],
+        "PtD Total": 61.13
+    },
+    "5340": {
+        "Master Code": 5340,
+        "Input Codes": [
+            "5757-0000",
+            null,
+            null
+        ],
+        "PtD Total": 558.9
+    },
+    "5400": {
+        "Master Code": 5400,
+        "Input Codes": [
+            "6110-0000",
+            null,
+            null
+        ],
+        "PtD Total": 7117.76
+    },
+    "5500": {
+        "Master Code": 5500,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5510": {
+        "Master Code": 5510,
+        "Input Codes": [
+            "5814-0000",
+            null,
+            null
+        ],
+        "PtD Total": 4847.7
+    },
+    "5520": {
+        "Master Code": 5520,
+        "Input Codes": [
+            "5816-0000",
+            "5817-0000",
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5530": {
+        "Master Code": 5530,
+        "Input Codes": [
+            "5818-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5540": {
+        "Master Code": 5540,
+        "Input Codes": [
+            "5836-0000",
+            null,
+            null
+        ],
+        "PtD Total": 56.59
+    },
+    "5550": {
+        "Master Code": 5550,
+        "Input Codes": [
+            "5842-0000",
+            null,
+            null
+        ],
+        "PtD Total": 639.25
+    },
+    "5560": {
+        "Master Code": 5560,
+        "Input Codes": [
+            "5848-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5570": {
+        "Master Code": 5570,
+        "Input Codes": [
+            "5830-0000",
+            null,
+            null
+        ],
+        "PtD Total": 378.98
+    },
+    "5600": {
+        "Master Code": 5600,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5610": {
+        "Master Code": 5610,
+        "Input Codes": [
+            "5025-0000",
+            null,
+            null
+        ],
+        "PtD Total": 5533.62
+    },
+    "5615": {
+        "Master Code": 5615,
+        "Input Codes": [
+            "5150-0000",
+            null,
+            null
+        ],
+        "PtD Total": 5252.49
+    },
+    "5620": {
+        "Master Code": 5620,
+        "Input Codes": [
+            "5060-0000",
+            "5175-0000",
+            null
+        ],
+        "PtD Total": 1040.42
+    },
+    "5630": {
+        "Master Code": 5630,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5635": {
+        "Master Code": 5635,
+        "Input Codes": [
+            "5095-0000",
+            "5195-0000",
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5640": {
+        "Master Code": 5640,
+        "Input Codes": [
+            "5190-0000",
+            null,
+            null
+        ],
+        "PtD Total": 268.28
+    },
+    "5645": {
+        "Master Code": 5645,
+        "Input Codes": [
+            "5055-0000",
+            "5145-0000",
+            null
+        ],
+        "PtD Total": 2591
+    },
+    "5650": {
+        "Master Code": 5650,
+        "Input Codes": [
+            "5070-0000",
+            "5182-0000",
+            null
+        ],
+        "PtD Total": 53.76
+    },
+    "5655": {
+        "Master Code": 5655,
+        "Input Codes": [
+            "5075-0000",
+            "5184-0000",
+            null
+        ],
+        "PtD Total": 571.84
+    },
+    "5660": {
+        "Master Code": 5660,
+        "Input Codes": [
+            "5094-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5670": {
+        "Master Code": 5670,
+        "Input Codes": [
+            "5092-0000",
+            "5192-0000",
+            null
+        ],
+        "PtD Total": 325
+    },
+    "5680": {
+        "Master Code": 5680,
+        "Input Codes": [
+            "5085-0000",
+            "5188-0000",
+            null
+        ],
+        "PtD Total": 491
+    },
+    "5690": {
+        "Master Code": 5690,
+        "Input Codes": [
+            "5096-0000",
+            "5196-0000",
+            null
+        ],
+        "PtD Total": 80.2
+    },
+    "5700": {
+        "Master Code": 5700,
+        "Input Codes": [
+            "5610-0000",
+            null,
+            null
+        ],
+        "PtD Total": 5649
+    },
+    "5710": {
+        "Master Code": 5710,
+        "Input Codes": [
+            "6010-0000",
+            null,
+            null
+        ],
+        "PtD Total": 20062
+    },
+    "5800": {
+        "Master Code": 5800,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5810": {
+        "Master Code": 5810,
+        "Input Codes": [
+            "5210-0000",
+            null,
+            null
+        ],
+        "PtD Total": 210.28
+    },
+    "5811": {
+        "Master Code": 5811,
+        "Input Codes": [
+            "5225-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5812": {
+        "Master Code": 5812,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5813": {
+        "Master Code": 5813,
+        "Input Codes": [
+            "5260-0000",
+            "5265-0000",
+            "5340-0000"
+        ],
+        "PtD Total": -120.8
+    },
+    "5814": {
+        "Master Code": 5814,
+        "Input Codes": [
+            "5285-0000",
+            null,
+            null
+        ],
+        "PtD Total": 42.29
+    },
+    "5815": {
+        "Master Code": 5815,
+        "Input Codes": [
+            "5290-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5816": {
+        "Master Code": 5816,
+        "Input Codes": [
+            "5295-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5817": {
+        "Master Code": 5817,
+        "Input Codes": [
+            "5310-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5818": {
+        "Master Code": 5818,
+        "Input Codes": [
+            "5345-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5819": {
+        "Master Code": 5819,
+        "Input Codes": [
+            "5352-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5820": {
+        "Master Code": 5820,
+        "Input Codes": [
+            "5360-0000",
+            null,
+            null
+        ],
+        "PtD Total": 381.09
+    },
+    "5822": {
+        "Master Code": 5822,
+        "Input Codes": [
+            "5385-0000",
+            null,
+            null
+        ],
+        "PtD Total": 339
+    },
+    "5823": {
+        "Master Code": 5823,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5824": {
+        "Master Code": 5824,
+        "Input Codes": [
+            "5420-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5825": {
+        "Master Code": 5825,
+        "Input Codes": [
+            "5220-0000",
+            "5405-0000",
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5830": {
+        "Master Code": 5830,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5831": {
+        "Master Code": 5831,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5832": {
+        "Master Code": 5832,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5833": {
+        "Master Code": 5833,
+        "Input Codes": [
+            "5315-0000",
+            null,
+            null
+        ],
+        "PtD Total": 466.66
+    },
+    "5834": {
+        "Master Code": 5834,
+        "Input Codes": [
+            "5245-0000",
+            null,
+            null
+        ],
+        "PtD Total": 40.85
+    },
+    "5835": {
+        "Master Code": 5835,
+        "Input Codes": [
+            "5330-0000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5836": {
+        "Master Code": 5836,
+        "Input Codes": [
+            "5250-0000",
+            "5350-0000",
+            null
+        ],
+        "PtD Total": 384.93
+    },
+    "5837": {
+        "Master Code": 5837,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5838": {
+        "Master Code": 5838,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5839": {
+        "Master Code": 5839,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5840": {
+        "Master Code": 5840,
+        "Input Codes": [
+            "5380-0000",
+            null,
+            null
+        ],
+        "PtD Total": -119.98
+    },
+    "5841": {
+        "Master Code": 5841,
+        "Input Codes": [
+            "5400-0000",
+            null,
+            null
+        ],
+        "PtD Total": 314.53
+    },
+    "5842": {
+        "Master Code": 5842,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5850": {
+        "Master Code": 5850,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5851": {
+        "Master Code": 5851,
+        "Input Codes": [
+            "5351-1000",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5852": {
+        "Master Code": 5852,
+        "Input Codes": [
+            "5351-3000",
+            null,
+            null
+        ],
+        "PtD Total": 527.4
+    },
+    "5853": {
+        "Master Code": 5853,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5854": {
+        "Master Code": 5854,
+        "Input Codes": [
+            "5351-3500",
+            "5351-8000",
+            null
+        ],
+        "PtD Total": 2206.54
+    },
+    "5855": {
+        "Master Code": 5855,
+        "Input Codes": [
+            "5351-9500",
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5900": {
+        "Master Code": 5900,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    },
+    "5910": {
+        "Master Code": 5910,
+        "Input Codes": [
+            "5510-0000",
+            null,
+            null
+        ],
+        "PtD Total": 871.05
+    },
+    "5915": {
+        "Master Code": 5915,
+        "Input Codes": [
+            "5515-0000",
+            null,
+            null
+        ],
+        "PtD Total": 265.93
+    },
+    "5920": {
+        "Master Code": 5920,
+        "Input Codes": [
+            "5520-0000",
+            null,
+            null
+        ],
+        "PtD Total": 415.02
+    },
+    "5930": {
+        "Master Code": 5930,
+        "Input Codes": [
+            "5550-0000",
+            null,
+            null
+        ],
+        "PtD Total": 500
+    },
+    "5940": {
+        "Master Code": 5940,
+        "Input Codes": [
+            "5530-0000",
+            "5540-0000",
+            null
+        ],
+        "PtD Total": 4208.34
+    },
+    "5941": {
+        "Master Code": 5941,
+        "Input Codes": [
+            "5565-0000",
+            null,
+            null
+        ],
+        "PtD Total": 795.21
+    },
+    "5950": {
+        "Master Code": 5950,
+        "Input Codes": [
+            "7221-0000",
+            null,
+            null
+        ],
+        "PtD Total": 3228
+    },
+    "5960": {
+        "Master Code": 5960,
+        "Input Codes": [
+            "7010-0000",
+            null,
+            null
+        ],
+        "PtD Total": 52570.68
+    },
+    "5970": {
+        "Master Code": 5970,
+        "Input Codes": [
+            null,
+            null,
+            null
+        ],
+        "PtD Total": 0
+    }
+}

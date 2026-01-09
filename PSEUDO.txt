@@ -1,0 +1,7 @@
+Make a list of all master keys
+    read first column of master key csv file
+Loop through the list
+    make a dictionary with master key, inputs(as a list), and sum
+    fetch the values from the inputs, add it to the sum
+Make a new dataframe with the master key values and the sums
+output to csv
