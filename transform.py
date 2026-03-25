@@ -1,3 +1,4 @@
+
 import pandas as pd
 import numpy as np
 import json
@@ -33,7 +34,7 @@ for mstr_code in mstr_code_list:
 # print(dct)
 
 #read income statement in
-df = pd.read_excel('Income_Statement_avenue24_Accrual (7) (1).xlsx', sheet_name = 'Report1', header= None)
+df = pd.read_excel('/workspaces/WRG_Project/Income_Statement_avenue24_Accrual (13).xlsx', sheet_name = 'Report1', header= None)
 df.columns = ['ID', 'Category', 'PtD', 'Ptd%', 'YtD', 'YtD%']
 df = df.iloc[4:,]
 df = df.dropna(subset=['ID'])
